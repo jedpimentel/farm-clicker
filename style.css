@@ -1,0 +1,13 @@
+#map {
+  width:  600px;
+  height: 600px;
+  background-image: url(map.jpg);
+  background-size: cover;
+}
+img {
+  width:  64px;
+  height: 64px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
